@@ -12,7 +12,7 @@ public class Streams1 {
     public static void main(String[] args) {
 
         List<String> stringCollection = new ArrayList<>();
-        stringCollection.add("ddd2");
+        stringCollection.add("Kutyma");
         stringCollection.add("aaa2");
         stringCollection.add("bbb1");
         stringCollection.add("aaa1");
