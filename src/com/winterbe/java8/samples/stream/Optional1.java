@@ -8,7 +8,7 @@ import java.util.Optional;
 public class Optional1 {
 
     public static void main(String[] args) {
-        Optional<String> optional = Optional.of("bam");
+        Optional<String> optional = Optional.of("Conflict optional");
 
         optional.isPresent();           // true
         optional.get();                 // "bam"
