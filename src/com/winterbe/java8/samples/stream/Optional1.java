@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.winterbe.java8.samples.stream;
 
 import java.util.Optional;
@@ -16,5 +17,6 @@ public class Optional1 {
 
         optional.ifPresent((s) -> System.out.println(s.charAt(0)));     // "b"
     }
+
 
 }
